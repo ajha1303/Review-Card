@@ -1,0 +1,71 @@
+body{
+    background-color: beige;
+}
+
+#container{
+    text-align: center;
+    font-family: Courier New, Lucida Console, Monaco;
+    font-size: 30px;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+h2{
+    margin: 0;
+    padding-top: 10px;
+    font-family: Courier New, Lucida Console, Monaco;
+    font-size: 25px;
+}
+
+h3{
+    margin: 0;
+    padding-top: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(0, 89, 255);
+}
+
+p{
+    margin: 0;
+    padding: 10px 40px;
+    text-align: center;
+}
+
+#box{
+    background-color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#btns{
+    padding-bottom: 10px;
+}
+
+#btns button{
+    margin: 0 10px;
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(0, 89, 255, 0.733);
+}
+
+button:hover{
+    color: rgba(0, 89, 255, 0.733);
+    background-color: black;
+}
